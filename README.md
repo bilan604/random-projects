@@ -10,5 +10,5 @@ Linkedin webscrapper (crawler!) Development Timeline:
 6/27 - Created notebook  
 8/12 - Learned selenium and completed project 
 
-pdfJoiner (135 Final Project):
-6/4-6/9 - Solving the problems with mostly linear algebra, for fun!
+pdfJoiner (135 Final Project):  
+6/4-6/9 - Solving the problems with mostly linear algebra, for fun! (libraries are for when you have a job!)
