@@ -2,9 +2,12 @@
 
 A repo for all the unsorted things that didn't get a repo  
 
-Database:  
+## Database:  
 1. Database Merger report | Microsoft WWI Sample DB and DW datasets.
 2. Emergency Transport/Ambulance Database design
+
+## Hide-n-Seek-FAANG:  
+A collection of the hidden embedded files I've found while webscrapping websites. You know how people can see when you opened their email by embedding a tiny little jpg? I think they're for that purpose.
 
 Linkedin webscrapper (crawler!) Development Timeline:  
 6/27 - Created notebook  
