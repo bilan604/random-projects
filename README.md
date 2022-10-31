@@ -12,7 +12,7 @@ A repo for all the unsorted things that didn't get a repo
 
 
 ## Hide-n-Seek-FAANG:  
-A collection of the hidden embedded files I've found while webscrapping websites. You know how people can see when you opened their email by embedding a tiny little jpg? I think they're for that purpose.
+A collection of the hidden embedded files I've found while webscrapping websites. You know how people can see when you opened their email by embedding a link to load a tiny little jpg? I found the links for these.
 
 
 ## Linkedin
