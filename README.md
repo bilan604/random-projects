@@ -21,4 +21,4 @@ Development timeline: 10/05/2022 5:47PM - 6:40PM
 
 
 ## pdfJoiner (135 Final Project):  
-6/4-6/9 - I did the take-home "final exam" with raw linear algebra as a challenge, just because I could - not using libraries that would have made them one liners.
+6/4-6/9 - I did the take-home "final exam" with raw linear algebra as a challenge, just because I could - not using libraries that would have made them one liners. This was extremely difficult but provided a lot of value as I had to have a strong understanding of the transformation required to create each statistic. I'm glad I did it this way.
