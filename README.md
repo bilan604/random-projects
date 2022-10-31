@@ -21,4 +21,4 @@ Development timeline: 10/05/2022 5:47PM - 6:40PM
 
 
 ## pdfJoiner (135 Final Project):  
-6/4-6/9 - Solving the problems with mostly linear algebra, for fun! (libraries are for when you have a job!)
+6/4-6/9 - I did the take-home "final exam" with raw linear algebra as a challenge, just because I could - not using libraries that would have made them one liners.
