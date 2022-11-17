@@ -11,8 +11,14 @@ A repo for all the unsorted things that didn't get a repo
 6/4-6/9 - I did the take-home "final exam" with raw linear algebra as a challenge, just because I could - not using libraries that would have made them one liners. This was extremely difficult but provided a lot of value as I had to have a strong understanding of the transformations required to create each statistic. I'm glad I did it this way.
 
 
+# Random Morning Projects
+
 ## TheGame.py  
 A PyGame shooting game where you run away from enemies with wasd and shoot projectiles to destroy enemies. Random morning project.
+
+
+## DesktopOrganizerApp
+A Python app that allows you add and remove items from a to-do list with a button/textbox interface.
 
 
 ## Linkedin
